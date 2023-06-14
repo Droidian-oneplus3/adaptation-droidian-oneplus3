@@ -1,5 +1,6 @@
 /etc/udev/rules.d
 /etc/apt/sources.list.d
+/etc/apt/preferences.d
 /usr/bin
 /usr/share/keyrings
 /usr/share/glib-2.0/schemas
