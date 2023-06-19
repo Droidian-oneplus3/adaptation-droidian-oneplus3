@@ -1,5 +1,5 @@
-adaptation-droidian-oneplus3 (0.0.0+git2023052921271801.cdc960b.bookworm) bookworm; urgency=medium
+adaptation-droidian-oneplus3 (0.0.0+git2023061823141101.cc321aa.bookworm) bookworm; urgency=medium
 
-  * bluebinder: set device policy to auto
+  * drop batman as its now upstream
 
- -- Bardia Moshiri <fakeshell@bardia.tech>  Mon, 29 May 2023 21:27:18 -0400
+ -- Bardia Moshiri <fakeshell@bardia.tech>  Sun, 18 Jun 2023 23:14:11 -0400
